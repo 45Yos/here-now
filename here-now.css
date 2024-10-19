@@ -66,6 +66,23 @@ p {
   h1 {
     text-align: center;
     font-size: 100px;
-    margin-right: 200px;
+    margin-top: -300px;
+  }
+  h2 {
+    width: 100%;
+    margin-left: 230px;
+    margin-top: -50px;
+    font-size: 20px;
+  }
+  p {
+    scale: 1.2;
+    font-size: 15px;
+    text-align: center;
+    margin-right: 220px;
+    width: 40%;
+  }
+  #divform {
+    flex-direction: column;
+    width: 100%;
   }
 }/*# sourceMappingURL=here-now.css.map */
